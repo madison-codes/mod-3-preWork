@@ -1,27 +1,4 @@
-//
-// function message() {
-//   console.log('TIMED OUT!');
-// }
-//
-// setTimeout(message,300);
-// 
-// 'use strict';
-//
-// var promise = new Promise(function (fulfill, reject) {
-//   setTimeout(function () {
-//     fulfill('FULFILLED!');
-//   }, 300);
-// });
-//
-// promise.then(console.log);
-//
-// var promise = new Promise(function (fulfill, reject) {
-//   setTimeout(function () {
-//     reject('REJECTED!');
-//   }, 300);
-// });
-//
-// promise.then(null, console.log);
+
 //
 // var promise = new Promise(function (fulfill, reject) {
 //   setTimeout(function () {
